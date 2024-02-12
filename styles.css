@@ -25,12 +25,10 @@ body {
 
 .content {
     position: absolute;
-    top: 50%;
+    top: 20%;
     left: 10%;
-    transform: translate(-50%, -80%);
     text-align: left;
     color: #36454f; /* Charcoal text color */
-    margin-left: 20%; /* 20% margin to the left */
 }
 
 .text-box {
